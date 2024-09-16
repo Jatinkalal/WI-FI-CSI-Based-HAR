@@ -16,7 +16,7 @@ We tested with two different envrironments with varyling light intensity conside
 
 ## Visualization of the data collected
 ![T-sne](https://github.com/Jatinkalal/WI-FI-CSI-Based-HAR/blob/main/Images/with_nofan_64.png)
-Here we plot the T-SNE for the obtained data across three different activities.
+Here we plot the T-SNE for the obtained CSI data across three different activities.
 
 
 
