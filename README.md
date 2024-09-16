@@ -9,3 +9,16 @@ Our approach uses LSTM based architecute to predict the activity labels accordin
 
 ### Hardware Setup (configuring ESPs)
 Two ESP32 micronctrollers - one for CSI sending (tx)  and the other for receiving (rx) is to be flashed with the [official ESP-CSI SDK](https://github.com/espressif/esp-csi).
+
+## Data Collection Setup 
+![All](https://github.com/Jatinkalal/WI-FI-CSI-Based-HAR/blob/main/Images/Data_collection_new.png)
+We tested with two different envrironments with varyling light intensity considering volunteers of varying body shapes to bring in diversity for the data collected.
+
+## Visualization of the data collected
+![T-sne](https://github.com/Jatinkalal/WI-FI-CSI-Based-HAR/blob/main/Images/with_nofan_64.png)
+Here we plot the T-SNE for the obtained data across three different activities.
+
+
+
+
+
